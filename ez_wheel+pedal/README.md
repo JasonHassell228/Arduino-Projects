@@ -6,6 +6,8 @@ When the gyroscope detects a certain amount of rotation left or right it sends a
 
 While it does work, it would be a much smoother experience if I simulated controller inputs for dynamic turning and acceleration, rather than all-or-nothing. I tried to look into controller inputs, however it turned out to be a lengthy process, and was beyond the scope of this project. 
 
+[VIDEO PENDING]
+
 # Directories
 ez_wheel_keyboard is the Arduino sketch for the gyroscope steering wheel itself, it gets the gyro data and sends it to the serial port. 
 
