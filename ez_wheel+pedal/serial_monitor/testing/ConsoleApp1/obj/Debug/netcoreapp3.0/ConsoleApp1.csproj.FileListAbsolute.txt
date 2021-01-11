@@ -1,0 +1,4 @@
+C:\Arduino\ez_wheel+pedal\yeaste\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.exe
+C:\Arduino\ez_wheel+pedal\yeaste\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csprojAssemblyReference.cache
+C:\Arduino\ez_wheel+pedal\yeaste\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Arduino\ez_wheel+pedal\yeaste\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfo.cs

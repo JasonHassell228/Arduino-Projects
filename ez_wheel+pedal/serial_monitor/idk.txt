@@ -1,0 +1,1 @@
+SendKeys.Send({"ENTER") or SendKeys.SendWait("ENTER") 

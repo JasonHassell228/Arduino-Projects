@@ -1,0 +1,9 @@
+C:\Arduino\ez_wheel+pedal\yeaste\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Arduino\ez_wheel+pedal\yeaste\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Arduino\ez_wheel+pedal\yeaste\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Arduino\ez_wheel+pedal\yeaste\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Arduino\ez_wheel+pedal\yeaste\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Arduino\ez_wheel+pedal\yeaste\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Arduino\ez_wheel+pedal\yeaste\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Arduino\ez_wheel+pedal\yeaste\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Arduino\ez_wheel+pedal\yeaste\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

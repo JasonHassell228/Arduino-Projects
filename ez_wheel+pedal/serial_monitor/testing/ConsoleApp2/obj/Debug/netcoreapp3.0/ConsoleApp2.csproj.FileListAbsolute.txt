@@ -1,0 +1,12 @@
+C:\Arduino\ez_wheel+pedal\yeaste\ConsoleApp2\bin\Debug\netcoreapp3.0\ConsoleApp2.exe
+C:\Arduino\ez_wheel+pedal\yeaste\ConsoleApp2\bin\Debug\netcoreapp3.0\ConsoleApp2.deps.json
+C:\Arduino\ez_wheel+pedal\yeaste\ConsoleApp2\bin\Debug\netcoreapp3.0\ConsoleApp2.runtimeconfig.json
+C:\Arduino\ez_wheel+pedal\yeaste\ConsoleApp2\bin\Debug\netcoreapp3.0\ConsoleApp2.runtimeconfig.dev.json
+C:\Arduino\ez_wheel+pedal\yeaste\ConsoleApp2\bin\Debug\netcoreapp3.0\ConsoleApp2.dll
+C:\Arduino\ez_wheel+pedal\yeaste\ConsoleApp2\bin\Debug\netcoreapp3.0\ConsoleApp2.pdb
+C:\Arduino\ez_wheel+pedal\yeaste\ConsoleApp2\obj\Debug\netcoreapp3.0\ConsoleApp2.csprojAssemblyReference.cache
+C:\Arduino\ez_wheel+pedal\yeaste\ConsoleApp2\obj\Debug\netcoreapp3.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Arduino\ez_wheel+pedal\yeaste\ConsoleApp2\obj\Debug\netcoreapp3.0\ConsoleApp2.AssemblyInfo.cs
+C:\Arduino\ez_wheel+pedal\yeaste\ConsoleApp2\obj\Debug\netcoreapp3.0\ConsoleApp2.dll
+C:\Arduino\ez_wheel+pedal\yeaste\ConsoleApp2\obj\Debug\netcoreapp3.0\ConsoleApp2.pdb
+C:\Arduino\ez_wheel+pedal\yeaste\ConsoleApp2\obj\Debug\netcoreapp3.0\ConsoleApp2.csproj.ResolveComReference.cache

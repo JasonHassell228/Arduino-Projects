@@ -1,0 +1,7 @@
+ez_wheel_keyboard is the Arduino sketch for the gyroscope steering wheel itself, it gets the gyro 
+data and sends it to the serial port. 
+
+ez_wheel_python is for monitoring the serial port of the computer (with the Arduino connected) 
+and simulating the necessary keys (WASD) when the Arduino steering wheel/pedals are used. 
+
+I wrote this a while ago so the details are a bit hazy :D
