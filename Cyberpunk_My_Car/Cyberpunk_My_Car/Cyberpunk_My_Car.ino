@@ -1,5 +1,6 @@
 #include <TM1637.h>
 #include <virtuabotixRTC.h>
+#include <AceTime.h>
 
 int CLK = 51;
 int DIO = 53;
@@ -11,11 +12,11 @@ TM1637 tm(CLK, DIO);
 
 void setup() {
 //  Serial.begin(9600);
-  // Seconds, minutes, hours, day of week, day of month, month, year
   // This set the original time, don't uncomment this unless resyncing the time
   // Always upload a version of this code with the line commented, otherwise 
   // when the arduino turns on it'll reset the time again
-//  myRTC.setDS1302Time(10, 55, 11, 1, 11, 1, 2021);
+  // Seconds, minutes, hours, day of week, day of month, month, year
+//  myRTC.setDS1302Time(50, 51, 19, 6, 30, 1, 2021);
   tm.init();
   tm.set(2); // Brightness from 0-7
   pinMode(A, OUTPUT);
