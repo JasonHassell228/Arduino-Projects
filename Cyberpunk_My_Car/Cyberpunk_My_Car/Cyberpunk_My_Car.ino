@@ -2,21 +2,21 @@
 #include <virtuabotixRTC.h>
 #include <AceTime.h>
 
-int CLK = 51;
-int DIO = 53;
+int CLK = 23;
+int DIO = 25;
 int pointVal = 0;
-int A = 46; // AM/PM
+int A = 33; // AM/PM toggle pin
 
-virtuabotixRTC myRTC(48, 50, 52);
+virtuabotixRTC myRTC(31, 29, 27); // CLK, DAT, RST
 TM1637 tm(CLK, DIO);
 
 void setup() {
-//  Serial.begin(9600);
+  Serial.begin(9600);
   // This set the original time, don't uncomment this unless resyncing the time
   // Always upload a version of this code with the line commented, otherwise 
   // when the arduino turns on it'll reset the time again
   // Seconds, minutes, hours, day of week, day of month, month, year
-//  myRTC.setDS1302Time(50, 51, 19, 6, 30, 1, 2021);
+//  myRTC.setDS1302Time(40, 16, 17, 3, 10, 2, 2021);
   tm.init();
   tm.set(2); // Brightness from 0-7
   pinMode(A, OUTPUT);
@@ -42,20 +42,20 @@ void loop() {
   // This allows for the update of variables for time or accessing the individual elements.
   myRTC.updateTime();
   // Start printing elements as individuals
-//  Serial.print("Current Date / Time: ");
-//  Serial.print(myRTC.dayofweek); // 0-6, starting at 0 on Sunday
-//  Serial.print(", ");
-//  Serial.print(myRTC.dayofmonth);
-//  Serial.print("/");
-//  Serial.print(myRTC.month);
-//  Serial.print("/");
-//  Serial.print(myRTC.year);
-//  Serial.print("  ");
-//  Serial.print(myRTC.hours);
-//  Serial.print(":");
-//  Serial.print(myRTC.minutes);
-//  Serial.print(":");
-//  Serial.println(myRTC.seconds);
+  Serial.print("Current Date / Time: ");
+  Serial.print(myRTC.dayofweek); // 0-6, starting at 0 on Sunday
+  Serial.print(", ");
+  Serial.print(myRTC.dayofmonth);
+  Serial.print("/");
+  Serial.print(myRTC.month);
+  Serial.print("/");
+  Serial.print(myRTC.year);
+  Serial.print("  ");
+  Serial.print(myRTC.hours);
+  Serial.print(":");
+  Serial.print(myRTC.minutes);
+  Serial.print(":");
+  Serial.println(myRTC.seconds);
 
   // DISPLAY
   // example: "12:ab"
