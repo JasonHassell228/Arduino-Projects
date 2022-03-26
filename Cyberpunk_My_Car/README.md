@@ -1,5 +1,5 @@
 # Cyberpunk_My_Car
-This project is a collection of ideas I had to give my car an electronics aesthetic. It currently just controls an AM/PM clock mounted on the dashboard. 
+This project is a collection of ideas I had to give my car an electronics aesthetic. It currently just controls an AM/PM clock mounted on the dashboard. The Arduino is powered by the car's charging port, which will turn the clock on and off with the rest of the car's electronics. 
 
 This is when I first got the Arduino RTC library working:
 ![IMG_20210204_135305](https://user-images.githubusercontent.com/49383382/160231145-4005015b-3bb1-46ff-93f6-58e825461933.jpg)
