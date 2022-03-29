@@ -97,16 +97,6 @@ void loop() {
 //  char c = Serial.read();
 //  Serial.println(c);
 //  delay(1000);
-  
-  
-// if (Serial.available() > 0)
-// { 
-//      char potato[] = "muta";
-      
-//    String potato = Serial.readStringUntil('\n');
-//    Serial.print("Arduino: ");
-//    Serial.println(potato);
-//  }
 
 //  motor.run(FORWARD);
 //  delay(2000);
